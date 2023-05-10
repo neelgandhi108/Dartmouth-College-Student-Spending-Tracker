@@ -16,12 +16,14 @@ This project is designed to help Dartmouth College students track and manage the
 
 2.  Navigate to the project directory and install dependencies:
 
-`cd Dartmouth-College-Student-Spending-Tracker
-npm install` 
+`cd Dartmouth-College-Student-Spending-Tracker' 
+
+
+'npm install` OR 'yarn install'
 
 3.  Start the app:
 
-`npm start` 
+`npm start` OR 'yarn start'
 
 4.  The Expo DevTools page will open in your browser. From there, you can launch the app on an Android or iOS device using the Expo app:
 
