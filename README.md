@@ -2,6 +2,14 @@
 
 This project is designed to help Dartmouth College students track and manage their spending when eating out at various restaurants near the college. By analyzing their previous spending habits, the app helps students create a budget and make informed decisions about where and how much to spend.
 
+<table>
+  <tr>
+    <td><img src="./assets/home.png" alt="Home Screen"></td>
+    <td><img src="./assets/details.png" alt="Details Screen"></td>
+  </tr>
+</table>
+
+
 ## Technologies Used
 
 -   React Native
